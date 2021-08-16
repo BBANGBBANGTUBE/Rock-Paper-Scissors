@@ -52,15 +52,3 @@ while True:
   angle = angle.split("FIN")[0].split("f")
   # print(angle)
   for i in range(1,5): tobes[i - 1] = int(angle[i])
-
-
-
-
-
-
-
-
-
-
-
-
